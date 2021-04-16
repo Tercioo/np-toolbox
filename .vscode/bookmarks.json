@@ -1,0 +1,49 @@
+{
+	"files": [
+		{
+			"path": "npt-regions_client.lua",
+			"bookmarks": [
+				{
+					"line": 739,
+					"column": 16,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "npt-tasker.lua",
+			"bookmarks": [
+				{
+					"line": 237,
+					"column": 1,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "../np-tooltips/html/index.ts",
+			"bookmarks": [
+				{
+					"line": 102,
+					"column": 30,
+					"label": ""
+				},
+				{
+					"line": 201,
+					"column": 19,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "../np-flayers/flayers-client.lua",
+			"bookmarks": [
+				{
+					"line": 68,
+					"column": 0,
+					"label": ""
+				}
+			]
+		}
+	]
+}
